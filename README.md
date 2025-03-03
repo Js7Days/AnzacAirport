@@ -1,10 +1,5 @@
  	Case study
-Client’s Details
-Company Name:	Anzac Airport
-Contact Name:	David Edwards, IT Manager
-Sharon Tate, Airport CEO
-Address:	Anzac Airport Drive, Mytown, QLD, 4655
-Email:	david.edwards4655@gmail.com.au
+
 Anzac Airport is a small private airport which provides passenger and freight services for local clients and businesses. Anzac Airport must be compliant with all commonwealth and state laws and regulations regarding airport facilities and operations. The organizational structure of Anzac Airport consists of three departments which support five areas of operational activity: 
 1.	Office Operations – Administration (including management) and Finance
 CEO, CFO, Administration Manager, 2x receptionists, 4x administration officers, Human Resource officer, WHS Officer
